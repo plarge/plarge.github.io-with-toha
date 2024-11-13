@@ -1,0 +1,2 @@
+# Remove makefile file from detectable languages
+makefile -linguist-detectable
